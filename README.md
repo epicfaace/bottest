@@ -15,3 +15,4 @@ info from https://docs.microsoft.com/en-us/bot-framework/nodejs/bot-builder-node
 * go back to dev.botframework website, set messaging endpoint to (HTTPS!) https://epicfaace-bot.azurewebsites.net/api/messages
 
 # Connect with facbeook, etc.
+* follow instructions in https://docs.microsoft.com/en-us/bot-framework/channel-connect-facebook
